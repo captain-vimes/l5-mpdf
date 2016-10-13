@@ -1,7 +1,6 @@
 {
     "name": "umertasov/l5-mpdf",
     "description": "mPDF wrapper for Laravel 5",
-    "version": "2.1",
     "keywords": ["laravel","mpdf", "pdf"],
     "authors": [
         {
